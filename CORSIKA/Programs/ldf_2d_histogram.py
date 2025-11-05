@@ -4,7 +4,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-nome_arquivo_entrada = 'Output402151.txt'
+nome_arquivo_entrada = 'Output402141.txt'
 nome_arquivo_saida = 'distribuicao_lateral.png'
 
 def carregar_dados_particulas(caminho_arquivo):
