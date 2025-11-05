@@ -5,9 +5,9 @@
 import re
 import os
 
-input_path = "DAT403151.long"
-output_out_path = "OUT40315.txt"
-output_par_path = "PAR40315.txt"
+input_path = "DAT402141.long"
+output_out_path = "OUT40214.txt"
+output_par_path = "PAR40214.txt"
 
 generate_out = not os.path.exists(output_out_path)
 generate_par = not os.path.exists(output_par_path)
