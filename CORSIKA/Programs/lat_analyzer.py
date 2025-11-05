@@ -3,8 +3,8 @@
 
 import struct
 
-nome_arquivo_entrada = 'DAT402151'
-nome_arquivo_saida = 'Output402151.txt'
+nome_arquivo_entrada = 'DAT402141'
+nome_arquivo_saida = 'Output402141.txt'
 
 PALAVRAS_POR_SUB_BLOCO = 273
 SUB_BLOCOS_POR_REGISTRO = 21
