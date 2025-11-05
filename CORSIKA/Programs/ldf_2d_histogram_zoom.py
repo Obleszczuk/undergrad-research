@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.colors import LogNorm 
 
-nome_arquivo_entrada = 'Output402151.txt'
+nome_arquivo_entrada = 'Output402141.txt'
 nome_arquivo_saida = 'distribuicao_lateral_zoom_2.5km.png'
 limite_zoom_m = 2500
 numero_de_bins = 1000
